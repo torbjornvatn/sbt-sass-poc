@@ -1,0 +1,7 @@
+.idea
+.idea/
+.idea_modules/
+.sass-cache/
+target/
+project/target/
+project/project/target/
